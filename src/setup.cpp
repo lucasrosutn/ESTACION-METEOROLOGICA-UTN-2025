@@ -9,3 +9,5 @@ void setupSystem() {
     initSensor();         // Inicializa el sensor DHT22
     initDisplay();        // Inicializa el display OLED
 }
+
+//test
